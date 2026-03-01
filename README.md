@@ -1,3 +1,4 @@
+theme: Modernist
 # Finis Consilia OÜ
 
 Finis Consilia OÜ is an Estonian **consulting** company specialising in business and management advisory services, with a focus on European funding, innovation and compliance for SMEs and startups.[web:2][web:8]
