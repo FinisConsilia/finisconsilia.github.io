@@ -1,3 +1,6 @@
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 # Finis Consilia OÜ
 
 Finis Consilia OÜ is an Estonian **consulting** company specialising in business and management advisory services, with a focus on European funding, innovation and compliance for SMEs and startups.
