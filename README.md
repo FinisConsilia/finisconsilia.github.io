@@ -8,26 +8,26 @@ We help organisations design, fund, and manage high‑impact projects across tec
 
 ## What we do
 
-- EU funding strategy and grant scouting (Horizon Europe, EIC Accelerator, and related programmes).[web:4][web:6]
-- Proposal design: from concept development to full application drafting, budgeting, and impact work packages.[web:4][web:6]
-- Consortium building: identifying and structuring collaborations with at least 3 partners from EU and associated countries where required.[web:6]
-- Project management and reporting support over the full project life cycle.[web:5]
-- Compliance and governance: ensuring regulatory and financial alignment with EU rules and national requirements.[web:5]
+EU funding strategy and grant scouting (Horizon Europe, EIC Accelerator, and related programmes).[web:4][web:6]
+Proposal design: from concept development to full application drafting, budgeting, and impact work packages.[web:4][web:6]
+Consortium building: identifying and structuring collaborations with at least 3 partners from EU and associated countries where required.[web:6]
+Project management and reporting support over the full project life cycle.[web:5]
+Compliance and governance: ensuring regulatory and financial alignment with EU rules and national requirements.[web:5]
 
 ---
 
 ## Who we work with
 
-- Deep‑tech startups and innovative SMEs preparing for EU‑level scaling.[web:4][web:6]
-- Research teams and universities coordinating or joining collaborative projects.[web:6]
-- Public and private stakeholders engaged in technology, sustainability, and energy transitions.[web:5]
+Deep‑tech startups and innovative SMEs preparing for EU‑level scaling.[web:4][web:6]
+Research teams and universities coordinating or joining collaborative projects.[web:6]
+Public and private stakeholders engaged in technology, sustainability, and energy transitions.[web:5]
 
 ---
 
 ## Why collaborate with us
 
-- Hands‑on experience in EU funding acquisition and European project management.
-- Strong focus on turning innovative ideas into compliant, evaluable, and fundable project narratives.[web:5][web:6]
+Hands‑on experience in EU funding acquisition and European project management.
+Strong focus on turning innovative ideas into compliant, evaluable, and fundable project narratives.[web:5][web:6]
 - Flexible support: from one‑off proposal reviews to full end‑to‑end management.
 
 ---
