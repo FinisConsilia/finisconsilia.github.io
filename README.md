@@ -10,7 +10,7 @@ We help organisations design, fund, and manage high‑impact projects across tec
 
 - EU funding strategy and grant scouting (Horizon Europe, EIC Accelerator, and related programmes).
 - Proposal design: from concept development to full application drafting, budgeting, and impact work packages.
-- Consortium building: identifying and structuring collaborations with at least 3 partners from EU and associated countries where required.
+- Consortium building: identifying and structuring collaborations with various business partners from EU and associated countries.
 - Project management and reporting support over the full project life cycle.
 - Compliance and governance: ensuring regulatory and financial alignment with EU rules and national requirements.
 
